@@ -1,9 +1,6 @@
 Operating system event monitoring package
 =========================================
 
-.. image:: https://img.shields.io/github/license/drobotun/pywinwatcher
-    :target: http://doge.mit-license.org
-
 This package implements event monitoring with processes, file system, and registry.
 
 Installation
