@@ -16,7 +16,7 @@ pip_install('wmi')
 
 setup(
     name='pywinwatcher',
-    version='0.0.9',
+    version='0.0.1',
     description='Operating system event monitoring package',
     long_description=readme + '\n\n' + history,
     author='Evgeny Drobotun',
