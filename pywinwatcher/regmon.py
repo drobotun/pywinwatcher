@@ -98,7 +98,7 @@ class RegistryMonitor:
 
     @property
     def hive(self):
-        """str: Registry hive where the changes occurred."""
+        """Registry hive where the changes occurred."""
         return self._event_properties['Hive']
 
     @property
