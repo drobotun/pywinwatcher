@@ -1,4 +1,5 @@
 .. image:: https://img.shields.io/pypi/l/pywinwatcher
+    :target: https://github.com/drobotun/pywinwatcher/blob/main/LICENSE
 .. image:: https://i.imgur.com/JtZ54GZ.png
     :target: https://xakep.ru/2021/05/20/malware-analysis-python/
 
