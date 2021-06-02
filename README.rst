@@ -1,4 +1,4 @@
-.. image:: https://img.shields.io/pypi/l/pywinwatcher   :alt: PyPI - License
+.. image:: https://img.shields.io/pypi/l/pywinwatcher
 .. image:: https://i.imgur.com/JtZ54GZ.png
     :target: https://xakep.ru/2021/05/20/malware-analysis-python/
 
